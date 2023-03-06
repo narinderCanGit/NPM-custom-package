@@ -15,7 +15,7 @@ To do this, navigate to the root directory of your project and run the following
 
   npm init - 
 This command will create a package.json file. 
-Package name should be unique. Try @<username>/<package_name>
+Package name should be unique. Try @username/<package_name>
 
 4. Add Your Code
 Now, you can go ahead and add the code for your package.
